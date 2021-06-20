@@ -1,0 +1,7 @@
+enum34==1.1.10
+numpy==1.19.5
+PyAudio==0.2.11
+scipy==1.6.0
+synthesizer==0.2.0
+torch==1.7.1
+typing-extensions==3.7.4.3
